@@ -1,0 +1,47 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="Encoding" addBOMForNewFiles="with NO BOM" />
+      <component name="GradleLocalSettings">
+        <option name="projectSyncType">
+          <map>
+            <entry key="$USER_HOME$/AndroidProjects/ssuranger-android" value="PREVIEW" />
+            <entry key="$USER_HOME$/IdeaProjects/ground-backend" value="PREVIEW" />
+            <entry key="$USER_HOME$/IdeaProjects/kafka" value="PREVIEW" />
+            <entry key="$USER_HOME$/IdeaProjects/kotlin-swagger-spring-functional-template" value="PREVIEW" />
+            <entry key="$USER_HOME$/IdeaProjects/midterm-svc" value="PREVIEW" />
+            <entry key="$USER_HOME$/IdeaProjects/spring-boot-template-master" value="PREVIEW" />
+            <entry key="$USER_HOME$/IdeaProjects/springboot-multimodule-kotlin" value="PREVIEW" />
+          </map>
+        </option>
+      </component>
+      <component name="MavenImportPreferences">
+        <option name="generalSettings">
+          <MavenGeneralSettings>
+            <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+          </MavenGeneralSettings>
+        </option>
+      </component>
+      <component name="PropertiesComponent">
+        <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+        <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+      </component>
+      <component name="masterDetails">
+        <states>
+          <state key="ProjectJDKs.UI">
+            <settings>
+              <last-edited>1.8</last-edited>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+        </states>
+      </component>
+    </defaultProject>
+  </component>
+</application>
